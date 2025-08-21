@@ -35,18 +35,24 @@
 
 ## 📂 Projetos em Destaque
 
-📝 
-
-📦 
-
-🔧 
-
-🔗 
+📝 Ainda não envolvido com projetos relevantes
 
 
 ---
 
 
 ## 📬 Entre em Contato
-<p> <a href="https://www.linkedin.com/in/Eric Skowronski"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ericsknascimento@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.instagram.com/erics.mn"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> </p>
-<p align="center"> <strong>✨ Obrigado por visitar meu perfil!</strong><br/> Explore meus repositórios e vamos aprender juntos! </p>
+
+
+<a href="https://www.linkedin.com/in/eric-skowronski-8a65a7360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <img src="https://img.shields.io/badge/LinkedIn-Eric%20Skowronski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/erics.mn?igsh=MTNmYnlzOHVqbmp3dg%3D%3D&utm_source=qr">
+  <img src="https://img.shields.io/badge/Instagram-Eric%20Skowronski-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+
+---
+
+✨ Obrigado por visitar meu perfil!</strong><br/> Explore meus repositórios e vamos aprender juntos! </p>
